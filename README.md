@@ -17,12 +17,12 @@
 📌 Análise e Desenvolvimento de Sistemas - Estácio  
 📌 Matemática Aplicada e Computacional - UFS  
 
-💻 **Tecnologias que domino**  
+<!--💻 **Tecnologias que domino**  
 - Linguagens de Programação: `C`, `C++`, `PHP`, `JavaScript`, `Python`
 - Web: `HTML`, `CSS`, `PHP`, `JavaScript`
 - Banco de Dados: `MySQL`
 - Sistemas Operacionais: `Linux` (Debian, Raspbian, etc.)
-- IoT e Eletrônica: Arduino, ESP, circuitos digitais e analógicos
+- IoT e Eletrônica: Arduino, ESP, circuitos digitais e analógicos -->
 
 🧠 **Curioso por**  
 - Sistemas embarcados e automação  
