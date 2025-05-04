@@ -14,8 +14,8 @@
 
 🎓 **Formação Acadêmica**  
 📌 Técnico em Eletrônica  
-📌 Análise e Desenvolvimento de Sistemas - Estácio  
-📌 Matemática Aplicada e Computacional - UFS  
+📌 Análise e Desenvolvimento de Sistemas - Estácio(Cursando atualmente)  
+📌 Matemática Aplicada e Computacional - UFS(Cursando atualmente)  
 
 <!--💻 **Tecnologias que domino**  
 - Linguagens de Programação: `C`, `C++`, `PHP`, `JavaScript`, `Python`
