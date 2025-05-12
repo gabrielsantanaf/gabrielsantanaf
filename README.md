@@ -77,11 +77,11 @@
 - 🌐 Portfólio: [Repositório Principal](https://github.com/gabrielsantanaf) 
 - 💼 LinkedIn: [link](https://www.linkedin.com/in/jo%C3%A3o-gabriel-santana-ferreira-a4403631b/)  
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </p>
 
-<p align="center"><i>"Código, café e criatividade: o trio que move minha rotina."</i></p>
+<p align="center"><i>"Código, café e criatividade: o trio que move minha rotina."</i></p>-->
 
 
 <!--
