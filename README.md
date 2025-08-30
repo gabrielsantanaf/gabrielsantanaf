@@ -26,7 +26,7 @@
 🧠 **Curioso por**  
 - Sistemas embarcados e automação  
 - Inteligência Artificial e Machine Learning  
-- Desenvolvimento de sistemas inteligentes como o Jarvis 🧠🤖  
+- Desenvolvimento de sistemas inteligentes  
 
 ---
 
