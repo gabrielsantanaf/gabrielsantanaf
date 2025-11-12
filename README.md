@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header com onda animada -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6495ed&height=120&section=header" />
 
 <!-- Borda animada -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -119,5 +119,5 @@
 
 <!-- Footer com onda animada -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6495ed&height=100&section=footer" />
 </div>
