@@ -74,6 +74,7 @@ const gabriel = {
   <img src="https://img.shields.io/badge/Maven-0e4d8a?style=for-the-badge&logo=apache-maven&logoColor=7ab8e8"/>
   <img src="https://img.shields.io/badge/Swagger-0e4d8a?style=for-the-badge&logo=swagger&logoColor=7ab8e8"/>
   <img src="https://img.shields.io/badge/Linux-0e4d8a?style=for-the-badge&logo=linux&logoColor=7ab8e8"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-0e4d8a?style=for-the-badge&logo=rabbitmq&logoColor=7ab8e8"/>
 </p>
 
 <br/>
