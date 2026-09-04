@@ -43,6 +43,7 @@ const gabriel = {
 <p>
   <img src="https://img.shields.io/badge/React-0e4d8a?style=for-the-badge&logo=react&logoColor=7ab8e8"/>
   <img src="https://img.shields.io/badge/Angular-0e4d8a?style=for-the-badge&logo=angular&logoColor=7ab8e8"/>
+  <img src="https://img.shields.io/badge/Razor-0e4d8a?style=for-the-badge&logo=dotnet&logoColor=7ab8e8"/>
   <img src="https://img.shields.io/badge/HTML5-0e4d8a?style=for-the-badge&logo=html5&logoColor=7ab8e8"/>
   <img src="https://img.shields.io/badge/CSS3-0e4d8a?style=for-the-badge&logo=css3&logoColor=7ab8e8"/>
 </p>
